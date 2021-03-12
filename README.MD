@@ -13,5 +13,5 @@
 
 - [Алгоритм Кнута-Морриса-Пратта](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/tree/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8)
 - [Алгоритм Бойера-Мура-Хорспула](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8/The%20Boyer-Moore-Horspool%20algorithm.py)
-- 
+- [Алгоритм Дейкстры]()
 
