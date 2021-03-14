@@ -6,7 +6,6 @@ def get_path(P, u, v):
     while u != v:
         u = P[u][v]
         path.append(u)
-
     return path
 
 
