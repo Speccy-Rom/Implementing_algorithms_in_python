@@ -17,3 +17,4 @@
 - [Алгоритм Флойда](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2/algorithm-floyd.py)
 - [Алгоритм Форда-Фалкерсона](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2/algorithm-forda-fulkersona.py)
 - [Алгоритм Краскала](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2/algorithm-kruskal.py)
+- [Алгоритм сортировки выбором](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D1%81%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA/sort_select.py)
