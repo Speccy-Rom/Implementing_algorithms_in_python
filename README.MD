@@ -23,6 +23,7 @@
 - [Алгоритм слияния двух упорядоченных списков](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D1%81%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA/algorithm-sort-select.py)
 - [Алгоритм сортировки слиянием (merge sort) ](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D1%81%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA/algorithm-sort-merge-list.py)
 - [Алгоритм быстрой сортировки Хоара](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D1%81%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA/algorithm-quick-sort.py)
-- [Стек типа LIFO (Last-In-First-Out)]()
+- [Стек типа LIFO (Last-In-First-Out)](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/blob/master/%D0%A1%D1%82%D0%B5%D0%BA%20LIFO/Last-In-First-Out.py)
+
 
 
