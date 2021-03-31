@@ -31,4 +31,4 @@
 - [Алгоритмы поиска - Экспоненциальный поиск](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0/Exponential_search.py)
 - [Алгоритмы поиска - Бинарный поиск](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0/binarn_search.py)
 - [Алгоритмы поиска - Поиск Фибоначчи](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0/fibonachi_search.py)
-
+- [Алгоритмы кластеризации данных - Метод k-средних](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/tree/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8)
