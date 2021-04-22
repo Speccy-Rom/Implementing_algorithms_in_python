@@ -49,6 +49,6 @@
 - [Алгоритм обхода дерева-порядок обхода](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B0/%D1%81rawl_order.py)
 - [Алгоритм - предварительный заказ обхода](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B0/Pre-order_crawl.py)
 - [Алгоритм - обход после заказа](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/blob/master/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B0/Post_order_crawl.py)
-
+- [Криптографические алгоритмы](https://github.com/Speccy-Rom/Implementing_algorithms_in_python/tree/master/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B)
 
 
