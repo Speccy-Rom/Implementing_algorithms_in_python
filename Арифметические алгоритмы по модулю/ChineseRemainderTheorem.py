@@ -5,9 +5,7 @@ def findMinX(n, r):
     x = 1
     while True:
         j = 0
-        while j < len(n):
-            if not x % n[j] == r[j]:
-                break
+        while j < len(n) and x % n[j] == r[j]:
             j += 1
         if j == len(n):
             return x
@@ -27,16 +25,13 @@ def crtheorem(n, r):
     prod = 1
     for x in n:
         prod *= x
-    pp = []
     inv = []
-    for a in n:
-        pp.append(prod / a)
-
+    pp = [prod / a for a in n]
     i = 0
     while i < len(n):
         inv.append(minv(pp[i], n[i]))
         i += 1
-    x = sum([x * y * z for x, y, z in zip(r, pp, inv)])
+    x = sum(x * y * z for x, y, z in zip(r, pp, inv))
     return x % prod
 
 

@@ -20,7 +20,7 @@ V = [[0, 2, math.inf, 3, 1, math.inf, math.inf, 10],
      ]
 
 N = len(V)  # число вершин в графе
-P = [[v for v in range(N)] for u in range(N)]  # начальный список предыдущих вершин для поиска кратчайших маршрутов
+P = [list(range(N)) for _ in range(N)]
 
 for k in range(N):
     for i in range(N):

@@ -6,9 +6,7 @@ phi(n)=no of prime factor of n
 
 
 def gcd(a, b):
-    if a == 0:
-        return b
-    return gcd(b % a, a)
+    return b if a == 0 else gcd(b % a, a)
 
 
 def phi(n):
@@ -24,7 +22,7 @@ def phi(n):
 def aphi(n):
     p = 2
     result = n
-    while p * p <= n:
+    while p**2 <= n:
         if n % p == 0:
             while n % p == 0:
                 n /= p
@@ -38,7 +36,7 @@ def aphi(n):
 def aaphi(n):
     p = 2
     result = n
-    while p * p <= n:
+    while p**2 <= n:
         if n % p == 0:
             while n % p == 0:
                 n /= p
@@ -49,9 +47,8 @@ def aaphi(n):
     return result
 
 
-if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        a = int(sys.argv[1])
-        print("aaphi(a)", aaphi(a))
-        print("aphi(a)", aphi(a))
-        print("phi(a)", phi(a))
+if __name__ == "__main__" and len(sys.argv) > 1:
+    a = int(sys.argv[1])
+    print("aaphi(a)", aaphi(a))
+    print("aphi(a)", aphi(a))
+    print("phi(a)", phi(a))

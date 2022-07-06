@@ -18,7 +18,7 @@ pca = PCA(n_components=2).fit(iris.data)
 pca_2d = pca.transform(iris.data)
 
 # Строим в соответствии с тремя классами
-for i in range(0, pca_2d.shape[0]):
+for i in range(pca_2d.shape[0]):
     if dbscan.labels_[i] == 0:
         c1 = plt.scatter(pca_2d[i, 0], pca_2d[i, 1], c='r', marker='+')
     elif dbscan.labels_[i] == 1:

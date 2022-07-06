@@ -6,9 +6,8 @@ def BinarySearch(lys, val):
         mid = (first+last)//2
         if lys[mid] == val:
             index = mid
+        elif val<lys[mid]:
+            last = mid -1
         else:
-            if val<lys[mid]:
-                last = mid -1
-            else:
-                first = mid +1
+            first = mid +1
     return index

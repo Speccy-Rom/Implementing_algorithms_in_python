@@ -11,7 +11,7 @@ def dfs_iter(graph, start, path=[]):
 def dfs_rec(graph, start, path=[]):
     path = path + [start]
     for node in graph[start]:
-        if not node in path:
+        if node not in path:
             path = dfs_rec(graph, node, path)
     return path
 

@@ -3,5 +3,5 @@ def ExponentialSearch(lys, val):
         return 0
     index = 1
     while index < len(lys) and lys[index] <= val:
-        index = index * 2
+        index *= 2
     return BinarySearch( lys[:min(index, len(lys))], val)

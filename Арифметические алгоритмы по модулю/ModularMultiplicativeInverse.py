@@ -30,16 +30,14 @@ def gcdExtend(a, b, p):
 def amodInv(a, m):
     p = [0, 0]
     g = gcdExtend(a, m, p)
-    if not g == 1:
+    if g != 1:
         print("provided numbers are not coprime")
     else:
-        res = (p[0] % m + m) % m
-        return res
+        return (p[0] % m + m) % m
 
 
-if __name__ == "__main__":
-    if len(sys.argv) > 2:
-        a = int(sys.argv[1])
-        m = int(sys.argv[2])
-        print(modInverse(a, m))
-        print(amodInv(a, m))
+if __name__ == "__main__" and len(sys.argv) > 2:
+    a = int(sys.argv[1])
+    m = int(sys.argv[2])
+    print(modInverse(a, m))
+    print(amodInv(a, m))

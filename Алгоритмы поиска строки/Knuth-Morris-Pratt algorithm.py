@@ -9,12 +9,11 @@ while i < len(t):
         p[i] = j + 1
         i += 1
         j += 1
+    elif j == 0:
+        p[i] = 0
+        i += 1
     else:
-        if j == 0:
-            p[i] = 0
-            i += 1
-        else:
-            j = p[j - 1]
+        j = p[j - 1]
 
 print(p)
 
@@ -31,11 +30,10 @@ while i < n:
         if j == m:
             print("образ найден")
             break
+    elif j > 0:
+        j = p[j - 1]
     else:
-        if j > 0:
-            j = p[j - 1]
-        else:
-            i += 1
+        i += 1
 
 if i == n:
     print("образ не найден")

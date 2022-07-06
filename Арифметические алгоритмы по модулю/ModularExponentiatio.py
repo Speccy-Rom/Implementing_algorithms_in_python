@@ -15,9 +15,8 @@ def modExponentiation(x, e, m):
     return Y
 
 
-if __name__ == "__main__":
-    if len(sys.argv) > 3:
-        a = int(sys.argv[1])
-        m = int(sys.argv[2])
-        x = int(sys.argv[3])
-        print(modExponentiation(a, m, x))
+if __name__ == "__main__" and len(sys.argv) > 3:
+    a = int(sys.argv[1])
+    m = int(sys.argv[2])
+    x = int(sys.argv[3])
+    print(modExponentiation(a, m, x))

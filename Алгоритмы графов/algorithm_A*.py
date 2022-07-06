@@ -10,11 +10,8 @@ def heuristic(a, b):
 def a_star_search(graph, start, goal):
     frontier = PriorityQueue()
     frontier.put(start, 0)
-    came_from = {}
-    cost_so_far = {}
-    came_from[start] = None
-    cost_so_far[start] = 0
-
+    came_from = {start: None}
+    cost_so_far = {start: 0}
     while not frontier.empty():
         current = frontier.get()
 
